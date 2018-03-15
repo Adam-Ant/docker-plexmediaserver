@@ -1,4 +1,10 @@
-  * `latest` latest public (as described here) [![](https://badge.imagelayers.io/wernight/plex-media-server:latest.svg)](https://imagelayers.io/?images=wernight/plex-media-server:latest 'Get your own badge on imagelayers.io')
+# Deprecated - Try here: [Spritsail/plex-media-server](https://github.com/Spritsail/plex-media-server)
+##This project has been deprecated in favour of a smaller and more feature rich image [Spritsail/plex-media-server](https://github.com/Spritsail/plex-media-server) based on [Spritsail/busybox](https://github.com/Spritsail/busybox) which is specifically built from source to be as small and clutter-free as possible!
+ 
+ 
+ 
+ 
+ * `latest` latest public (as described here) [![](https://badge.imagelayers.io/wernight/plex-media-server:latest.svg)](https://imagelayers.io/?images=wernight/plex-media-server:latest 'Get your own badge on imagelayers.io')
   * `autoupdate` installs latest on start (see below for differences) [![](https://badge.imagelayers.io/wernight/plex-media-server:latest.svg)](https://imagelayers.io/?images=wernight/plex-media-server:autoupdate 'Get your own badge on imagelayers.io')
   * `0.9.12.13` (or similar) are like `latest` but for a specific version
 
